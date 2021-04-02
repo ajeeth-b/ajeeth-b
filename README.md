@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajeeth-b)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajeeth-b&count_private=true&show_icons=true&theme=dracula)
 
 <!--
