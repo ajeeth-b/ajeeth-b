@@ -4,6 +4,13 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajeeth-b&count_private=true&show_icons=true&theme=dracula)
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Python-Flask
+- 👯 I’m looking to collaborate on React, Angular, AWS.
+- 📫 How to reach me: ajeethsiva777@gmail.com
+
 <!--
 **ajeeth-b/ajeeth-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
