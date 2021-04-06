@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeeth-b&langs_count=8&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajeeth-b&count_private=true&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajeeth-b&count_private=true&show_icons=true&theme=dracula&count_private=true)
 
 Here are some ideas to get you started:
 
